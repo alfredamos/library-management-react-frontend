@@ -1,0 +1,17 @@
+.wita {
+  height: 50vh;
+  margin: auto;
+  box-shadow: 3px 3px 3px 3px rgb(236, 227, 227);
+}
+
+.rd-text {
+  text-decoration: none;
+}
+
+.moba {
+  margin: auto;
+}
+
+.pado {
+  padding: 10px;
+}

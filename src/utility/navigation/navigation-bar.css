@@ -1,0 +1,21 @@
+.nav {
+  border-bottom: 1px solid azure;
+  border-top: 1px solid azure;
+  background-color: azure;
+  padding: 10px;
+  box-shadow: 1px 1px 1px 1px rgba(235, 232, 232, 0.5);
+}
+
+.btn-link{
+  text-decoration: none;
+}
+
+.btn-link, .nav-link{
+  color: black;
+}
+.btn-link:hover, .nav-link:hover{
+  color: red;
+}
+
+
+
